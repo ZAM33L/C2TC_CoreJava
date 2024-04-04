@@ -1,3 +1,6 @@
+//Program to demonstrate accessing classes and methods of different package
+
+
 package com.tns.dayfoursecondpackage;
 import com.tns.dayfourfirstpackage.Base;
 
